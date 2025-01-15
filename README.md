@@ -16,7 +16,10 @@ Rétro Snake est un jeu 2D. Le but du jeu est de manger des pommes pour faire gr
 
 # Mode d'emploi
 
-Pour démarrer le jeu il faut appyuer sur le bouton start et si on veut resart il faut appuyer sur la touche R
+- Pour démarrer le jeu il faut cliquer sur le bouton start
+- Pour resart il faut appuyer sur la touche R
+- Pour quitter il faut soit cliquer sur le bouton quit du menu ou soit appuyer sur Q
+- Le jeu se joue avec les flèches directionnelles
 
 # Conception
 
