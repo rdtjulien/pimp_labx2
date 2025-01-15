@@ -12,4 +12,8 @@ Rétro Snake est un jeu 2D. Le but du jeu est de manger des pommes pour faire gr
 - Sur l'image du centre c'est le déroulement du jeu
 - L'image de droite montre la fin d'une partie
 
+```
+test
+```
+
 
