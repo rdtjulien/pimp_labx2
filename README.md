@@ -1,3 +1,2 @@
-# pimp_labx2
+# Retro Snake
 Ce fichier a été édité sur [GitHub](https://github.com).
-## Pourquoi git?
