@@ -18,9 +18,8 @@ Rétro Snake est un jeu 2D. Le but du jeu est de manger des pommes pour faire gr
 
 Pour démarrer le jeu il faut appyuer sur le bouton start et si on veut resart il faut appuyer sur la touche R
 
-
 # Conception
 
-
+Pour la conception de notre jeu Snake, nous avons commencé par créer un menu initial permettant de lancer la partie. Ensuite, nous avons implémenté les éléments principaux du jeu : le serpent et la pomme qui est générée aléatoirement sur la grille. L'affichage graphique a été conçu pour mettre à jour l'écran à chaque itération. Le programme prend en compte les inputs de l'utilisateur pour définir la direction dans laquelle le serpent doit se déplacer. À chaque itération, nous vérifions si le serpent a mangé la pomme ou s'il s'est heurté à un mur ou à lui-même.
 
 
