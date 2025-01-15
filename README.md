@@ -20,6 +20,6 @@ Pour démarrer le jeu il faut appyuer sur le bouton start et si on veut resart i
 
 # Conception
 
-Pour la conception de notre jeu Snake, nous avons commencé par créer un menu initial permettant de lancer la partie. Ensuite, nous avons implémenté les éléments principaux du jeu : le serpent et la pomme qui est générée aléatoirement sur la grille. L'affichage graphique a été conçu pour mettre à jour l'écran à chaque itération. Le programme prend en compte les inputs de l'utilisateur pour définir la direction dans laquelle le serpent doit se déplacer. À chaque itération, nous vérifions si le serpent a mangé la pomme ou s'il s'est heurté à un mur ou à lui-même. Le score est augmenté de 1 à chaque fois que le serpent mange une pomme.
+Pour la conception de notre jeu Snake, nous avons implémenté les éléments principaux du jeu : le serpent et la pomme qui est générée aléatoirement sur la grille. Le programme prend en compte les inputs de l'utilisateur pour définir la direction dans laquelle le serpent doit se déplacer. À chaque itération, nous vérifions si le serpent a mangé la pomme ou s'il s'est heurté à un mur ou à lui-même. Le score est augmenté de 1 à chaque fois que le serpent mange une pomme. L'affichage graphique a été conçu pour mettre à jour l'écran à chaque itération. Nous avons ajouté un menu initial permettant de lancer la partie et une option pour restart.
 
 
