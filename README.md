@@ -1,5 +1,5 @@
 # Retro Snake
-Rétro Snake est un jeu 
+Rétro Snake est un jeu 2D. Le but du jeu est de manger des pommes pour faire grandir notre serpent. Il ne faut pas taper dans les murs ou dans soit même sinon le jeu s'arrête.
 
 
 
