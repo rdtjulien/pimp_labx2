@@ -1,6 +1,6 @@
 # Retro Snake
 Rétro Snake est un jeu 
-<img src="https://github.com/user-attachments/assets/d2dd0e00-8f50-49bd-9de9-28cadbc9b28d" width="150" height="280">
+<img src="https://github.com/user-attachments/assets/d2dd0e00-8f50-49bd-9de9-28cadbc9b28d" width=50% height=50%>
 
 
 ![image](https://github.com/user-attachments/assets/a970f73a-d9c4-4bfd-ba44-c4e8f56da76e)
